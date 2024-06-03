@@ -31,6 +31,7 @@ Motor# tells motor is connected to which port, 1, 2, 3 or 4
 Using Arduino IDE:
 1. Each Arduino file is called sketch 
 2. When you open Arduino IDE, you would see 2 functions written in sketch
+   
    a. setup()
    
    b. loop()
