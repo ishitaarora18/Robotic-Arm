@@ -31,15 +31,14 @@ Motor# tells motor is connected to which port, 1, 2, 3 or 4
 Using Arduino IDE:
 1. Each Arduino file is called sketch 
 2. When you open Arduino IDE, you would see 2 functions written in sketch
-   setup()
-   loop()
+   a. setup()
    
-setup()
+   b. loop()
+   
 	The setup() function is called when a sketch starts. It is used to initialize variables, pin modes, start using libraries, etc. This function will only run once, after each powerup or reset of the Arduino 
   board.
   
 
-loop()
 	The loop() function does precisely what its name suggests, and loops consecutively, allowing the program to change and respond. It is used to actively control the Arduino board. 
 
 
