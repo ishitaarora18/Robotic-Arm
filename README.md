@@ -33,9 +33,11 @@ Using Arduino IDE:
 2. When you open Arduino IDE, you would see 2 functions written in sketch
    setup()
    loop()
+   
 setup()
-	The setup() function is called when a sketch starts. It is used to initialize variables, pin 	modes, start using libraries, etc. This function will only run once, after eachn powerup or reset of the Arduino 
+	The setup() function is called when a sketch starts. It is used to initialize variables, pin modes, start using libraries, etc. This function will only run once, after each powerup or reset of the Arduino 
   board.
+  
 
 loop()
 	The loop() function does precisely what its name suggests, and loops consecutively, allowing the program to change and respond. It is used to actively control the Arduino board. 
